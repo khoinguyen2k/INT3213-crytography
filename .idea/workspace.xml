@@ -1,141 +1,86 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3d79cf1a-fb2a-437b-974a-8572cc198571" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/Network/02-gcd.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/02-pos.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/09-OPERATOR.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/6.1.mid.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/6.2.uppercase.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/Fibonacci4.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/Permutation.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/ReverseBits.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/abq.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/amodb.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/factorial.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Network/poly_protocol.pdf" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cryptography/10000 - Copy.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cryptography/ECCsignature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ECCsignature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cryptography/ElGamal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElGamal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cryptography/ElGamalSignature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElGamalSignature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cryptography/ElipticCurve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElipticCurve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cryptography/EllipticCurveCryptography.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllipticCurveCryptography.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cryptography/PrimeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cryptography/PrimeNumberList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeNumberList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cryptography/RSA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RSA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cryptography/RSAsignature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RSAsignature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cryptography/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cryptography/TonelliShanksAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TonelliShanksAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/cryptography/primes.csv" beforeDir="false" afterPath="$PROJECT_DIR$/src/primes.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaNetwork/Client.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaNetwork/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaNetwork/MyClient.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaNetwork/Server.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSwing/MyFrame.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSwing/MyPanel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSwing/Painter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSwing/PixelLetter.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSwing/Pixilart Sprite Sheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/javaSwing/lhq.PNG" beforeDir="false" />
+    <list default="true" id="41512f8b-78b3-43a6-8cb5-b43ad8a7a1ef" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/INT3213-crytography.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/crytography.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Starter.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/10000 - Copy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/ECCsignature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/ElGamal.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/ElGamalSignature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/ElipticCurve.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/EllipticCurveCryptography.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/Person.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/PrimeGenerator.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/PrimeNumberList.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/RSA.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/RSAsignature.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/Receiver.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/Sender.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/Test.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/TonelliShanksAlgorithm.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/primes.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaNetwork/Client.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaNetwork/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaNetwork/MyClient.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaNetwork/Server.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaSwing/MyFrame.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaSwing/MyPanel.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaSwing/Painter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaSwing/PixelLetter.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaSwing/Pixilart Sprite Sheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaSwing/lhq.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/crytography/cryptography/10000 - Copy.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/crytography/cryptography/primes.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/crytography/javaSwing/Pixilart Sprite Sheet.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/crytography/javaSwing/lhq.PNG" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ECCsignature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ECC_Signature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ElGamal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElGamal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ElipticCurve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllipticCurve.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/EllipticCurveCryptography.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllipticCurveCryptography.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/PrimeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeGenerator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RSA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RSA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/RSAsignature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RSA_Signature.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TonelliShanksAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TonelliShanksAlgorithm.java" afterDir="false" />
     </list>
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/ElGamal.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="crytography" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crytography" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crytography" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crytography" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="crytography" type="b2602c69:ProjectViewProjectNode" />
-              <item name="crytography" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="RSAsignature.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="2aiRCNNGq0kZouletaDCIIts5so" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1700800542296" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
-  </component>
-  <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Administrator\Desktop\crytography\src" />
-    </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager">
-    <configuration name="ElGamal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="cryptography.ElGamal" />
-      <module name="crytography" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value=".*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Test" />
+      <module name="INT3213-crytography" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ElGamal" />
+        <item itemvalue="Application.Test" />
       </list>
     </recent_temporary>
   </component>
@@ -144,201 +89,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="3d79cf1a-fb2a-437b-974a-8572cc198571" name="Default Changelist" comment="" />
-      <created>1700800448984</created>
+      <changelist id="41512f8b-78b3-43a6-8cb5-b43ad8a7a1ef" name="Default Changelist" comment="" />
+      <created>1704799284893</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1700800448984</updated>
+      <updated>1704799284893</updated>
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <layout>
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24963397" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.328594" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info anchor="right" id="Maven Projects" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="VcsContentAnnotationSettings">
-    <option name="myLimit" value="2678400000" />
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ECCsignature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/primes.csv">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-462" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/cryptography/10000 - Copy.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/javaNetwork/Main.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="88">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/output.txt">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ElGamal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1233">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RSA.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Test.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/TonelliShanksAlgorithm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="44">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RSAsignature.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="792">
-          <caret line="48" lean-forward="true" selection-start-line="48" selection-end-line="48" />
-        </state>
-      </provider>
-    </entry>
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ArtifactsStructureConfigurable.UI">
-        <settings>
-          <artifact-editor />
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="FacetStructureConfigurable.UI">
-        <settings>
-          <last-edited>No facets are configured</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="GlobalLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="JdkListConfigurable.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ModuleStructureConfigurable.UI">
-        <settings>
-          <last-edited>crytography</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-                <option value="0.6" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>11</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-      <state key="ProjectLibrariesConfigurable.UI">
-        <settings>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="WindowStateProjectService">
+    <state x="275" y="21" key="#Project_Structure" timestamp="1704799335781">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1704799335781" />
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1704799295884">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1704799295884" />
+    <state x="357" y="72" key="FileChooserDialogImpl" timestamp="1704799334680">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="357" y="72" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1704799334680" />
+    <state x="163" y="0" key="SettingsEditor" timestamp="1704799319301">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1704799319301" />
   </component>
 </project>

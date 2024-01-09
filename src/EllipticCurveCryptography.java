@@ -17,11 +17,11 @@ public class EllipticCurveCryptography {
 
    public static void main(String[] args) {
 
-      BigInteger s = ECCsignature.randomBigInteger(13);
+      BigInteger s = ECC_Signature.randomBigInteger(13);
       System.out.println("random s = " + s);
 
       //B = sP
-      BigInteger[] B = ElipticCurve.multiplyPoint(P, s, p, a);
+      BigInteger[] B = EllipticCurve.multiplyPoint(P, s, p, a);
 
       BigInteger tokenizedM = RSA.stringToBigInteger(m);
       System.out.println("Tokenized message = " + tokenizedM);
@@ -34,16 +34,16 @@ public class EllipticCurveCryptography {
 
       BigInteger[] M = {Mx, My};
       System.out.println("M = " + Arrays.toString(M));
-      BigInteger k = ECCsignature.randomBigInteger(13);
+      BigInteger k = ECC_Signature.randomBigInteger(13);
       System.out.println("Random key k = " + k);
 
       //M1 = kP
-      BigInteger[] M1 = ElipticCurve.multiplyPoint(P, k, p, a);
+      BigInteger[] M1 = EllipticCurve.multiplyPoint(P, k, p, a);
 
-      BigInteger[] kB = ElipticCurve.multiplyPoint(B, k, p, a);
+      BigInteger[] kB = EllipticCurve.multiplyPoint(B, k, p, a);
 
       //M2 = M + kB
-      BigInteger[] M2 = ElipticCurve.addPoints(M, kB, p, a);
+      BigInteger[] M2 = EllipticCurve.addPoints(M, kB, p, a);
 
       //Encode result
       System.out.println("Encode:");
@@ -57,10 +57,10 @@ public class EllipticCurveCryptography {
        */
 
       //(n - s) * M1
-      BigInteger[] sM1 = ElipticCurve.multiplyPoint(M1, n.subtract(s), p, a);
+      BigInteger[] sM1 = EllipticCurve.multiplyPoint(M1, n.subtract(s), p, a);
 
       //M = M2 + (n - s) * M1
-      BigInteger[] decode = ElipticCurve.addPoints(M2, sM1, p, a);
+      BigInteger[] decode = EllipticCurve.addPoints(M2, sM1, p, a);
 
       System.out.println("decode result = " + decode[0]);
    }

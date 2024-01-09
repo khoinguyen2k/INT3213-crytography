@@ -47,7 +47,7 @@ public class ElGamal {
       System.out.println("Is primitive? " + isPrimitiveElement(alpha, p));
 
       if (isPrimitiveElement(alpha, p)) {
-         BigInteger a = ECCsignature.randomBigInteger(13);
+         BigInteger a = ECC_Signature.randomBigInteger(13);
          System.out.println("a = " + a);
 
          BigInteger beta = alpha.modPow(a, p);

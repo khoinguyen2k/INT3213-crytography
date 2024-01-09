@@ -22,7 +22,7 @@ public class Test {
 //      (2,6) - (3,2) = (7,8)
 //      (2,6)+9*(3,2) = ?
 
-      BigInteger[] res1 = ElipticCurve.multiplyPoint(h, BigInteger.valueOf(11), p, a);
+      BigInteger[] res1 = EllipticCurve.multiplyPoint(h, BigInteger.valueOf(11), p, a);
       System.out.println(res1[0] + " " +res1[1]);
 
 
@@ -41,12 +41,12 @@ public class Test {
 
       BigInteger[] point1 = {new BigInteger("3"), new BigInteger("2")};
 
-      BigInteger[] res1 = ElipticCurve.multiplyPoint(point1, BigInteger.valueOf(3), p, a);
-      BigInteger[] res = ElipticCurve.multiplyPoint(res1, BigInteger.valueOf(5), p, a);
+      BigInteger[] res1 = EllipticCurve.multiplyPoint(point1, BigInteger.valueOf(3), p, a);
+      BigInteger[] res = EllipticCurve.multiplyPoint(res1, BigInteger.valueOf(5), p, a);
 
       System.out.println(res[0] + " " +res[1]);
 
-      BigInteger[] res2 = ElipticCurve.multiplyPoint(res1, BigInteger.valueOf(15), p, a);
+      BigInteger[] res2 = EllipticCurve.multiplyPoint(res1, BigInteger.valueOf(15), p, a);
       System.out.println(res2[0] + " " +res2[1]);
    }
 

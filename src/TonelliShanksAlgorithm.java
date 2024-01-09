@@ -60,14 +60,14 @@ public class TonelliShanksAlgorithm {
 
       BigInteger sqrt = tonelliShanks(n, p);
       String msg = "5924594078";
-      BigInteger randomBitAddition = ECCsignature.randomBigInteger(13);
+      BigInteger randomBitAddition = ECC_Signature.randomBigInteger(13);
 
       BigInteger x = new BigInteger(msg + randomBitAddition.toString());
       BigInteger a = BigInteger.valueOf(867);
       BigInteger val = new BigInteger("52"); // Number to find square root of
 
       while (sqrt.equals(BigInteger.valueOf(-1))) {
-         randomBitAddition = ECCsignature.randomBigInteger(13);
+         randomBitAddition = ECC_Signature.randomBigInteger(13);
 
          x = new BigInteger(msg + randomBitAddition.toString());
 
@@ -125,7 +125,7 @@ public class TonelliShanksAlgorithm {
 
       BigInteger randomBitAddition = new BigInteger("1");
       while (sqrt.equals(BigInteger.valueOf(-1))) {
-         randomBitAddition = ECCsignature.randomBigInteger(2);
+         randomBitAddition = ECC_Signature.randomBigInteger(2);
          BigInteger paddedM = new BigInteger(tokenizedM.toString() + randomBitAddition.toString());
 
          xPow3 = paddedM.pow(3);

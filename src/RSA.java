@@ -80,9 +80,9 @@ public class RSA {
    }
 
    public static BigInteger getCoprime(BigInteger n) {
-      BigInteger result = ECCsignature.randomBigInteger(n.bitLength() - 1);
+      BigInteger result = ECC_Signature.randomBigInteger(n.bitLength() - 1);
       while (!RSA.GCD(result, n).equals(BigInteger.ONE)) {
-         result = ECCsignature.randomBigInteger(n.bitLength());
+         result = ECC_Signature.randomBigInteger(n.bitLength());
       }
       return result;
    }
