@@ -1,53 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="41512f8b-78b3-43a6-8cb5-b43ad8a7a1ef" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/INT3213-crytography.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/crytography.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Starter.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/10000 - Copy.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/ECCsignature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/ElGamal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/ElGamalSignature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/ElipticCurve.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/EllipticCurveCryptography.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/PrimeGenerator.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/PrimeNumberList.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/RSA.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/RSAsignature.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/Receiver.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/Sender.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/Test.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/TonelliShanksAlgorithm.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/cryptography/primes.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaNetwork/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaNetwork/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaNetwork/MyClient.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaNetwork/Server.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaSwing/MyFrame.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaSwing/MyPanel.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaSwing/Painter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaSwing/PixelLetter.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaSwing/Pixilart Sprite Sheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Starter/javaSwing/lhq.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/crytography/cryptography/10000 - Copy.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/crytography/cryptography/primes.csv" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/crytography/javaSwing/Pixilart Sprite Sheet.png" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/crytography/javaSwing/lhq.PNG" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ECCsignature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ECC_Signature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ElGamal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ElGamal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ElipticCurve.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllipticCurve.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/EllipticCurveCryptography.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/EllipticCurveCryptography.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PrimeGenerator.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/PrimeGenerator.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RSA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RSA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RSAsignature.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RSA_Signature.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TonelliShanksAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/TonelliShanksAlgorithm.java" afterDir="false" />
-    </list>
+    <list default="true" id="9b457dcf-1395-45ff-8a8d-94efc4611bb6" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -56,7 +10,7 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectId" id="2aiRCNNGq0kZouletaDCIIts5so" />
+  <component name="ProjectId" id="2aiShCoXHB3J2PUMNd6yhMObE3w" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -64,13 +18,24 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
   </component>
-  <component name="RunManager">
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\cryptograph\src" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Administrator\Desktop\cryptograph\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="ECC_Signature" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ECC_Signature" />
+      <module name="INT3213-crytography" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Test" />
       <module name="INT3213-crytography" />
@@ -81,6 +46,7 @@
     <recent_temporary>
       <list>
         <item itemvalue="Application.Test" />
+        <item itemvalue="Application.ECC_Signature" />
       </list>
     </recent_temporary>
   </component>
@@ -89,30 +55,30 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="41512f8b-78b3-43a6-8cb5-b43ad8a7a1ef" name="Default Changelist" comment="" />
-      <created>1704799284893</created>
+      <changelist id="9b457dcf-1395-45ff-8a8d-94efc4611bb6" name="Default Changelist" comment="" />
+      <created>1704800022933</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1704799284893</updated>
+      <updated>1704800022933</updated>
     </task>
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="275" y="21" key="#Project_Structure" timestamp="1704799335781">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom" timestamp="1704800394335">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="275" y="21" key="#Project_Structure/0.0.1366.728@0.0.1366.728" timestamp="1704799335781" />
-    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog" timestamp="1704799295884">
+    <state width="1322" height="174" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1704800394335" />
+    <state width="1322" height="174" key="GridCell.Tab.0.center" timestamp="1704800394335">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="531" y="252" key="#com.intellij.ide.util.projectWizard.JdkChooserPanel.MyDialog/0.0.1366.728@0.0.1366.728" timestamp="1704799295884" />
-    <state x="357" y="72" key="FileChooserDialogImpl" timestamp="1704799334680">
+    <state width="1322" height="174" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1704800394335" />
+    <state width="1322" height="174" key="GridCell.Tab.0.left" timestamp="1704800394335">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="357" y="72" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1704799334680" />
-    <state x="163" y="0" key="SettingsEditor" timestamp="1704799319301">
+    <state width="1322" height="174" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1704800394335" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right" timestamp="1704800394335">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1704799319301" />
+    <state width="1322" height="174" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1704800394335" />
   </component>
 </project>
